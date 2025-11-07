@@ -1,6 +1,6 @@
 # Loan-Eligibility-Prediction
 Internship Task 1 — Loan Eligibility Prediction  
-**Author:** Ibadoo
+**Author:** Ibad Ur Rahman
 
 ## Overview
 Predict whether an applicant's loan will be approved using EDA, Logistic Regression and Random Forest.
